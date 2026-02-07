@@ -1,5 +1,7 @@
 # Word Prediction LSTM RNN
 
+**🚀 [Try Live Demo](https://wordpred.streamlit.app/)**
+
 A practical implementation of Long Short-Term Memory (LSTM) Recurrent Neural Network for next-word prediction, trained on Shakespeare's "Hamlet" and deployed with a Streamlit web interface.
 
 ## 📋 Project Overview
